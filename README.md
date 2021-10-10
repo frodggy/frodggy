@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arif(Frodggy)
+- 👋 Hi, I’m (Frodggy)
 - 👀 I’m interested in game development, and computer programming
 - 🌱 I’m currently learning lua
 - 💞️ I’m looking to collaborate on my game "After Dooms Day"
