@@ -7,4 +7,4 @@
 
 
 
-[![Frodggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=frodggy)](https://github.com/anuraghazra/github-readme-stats)
+[![Frodggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=frodggy&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
