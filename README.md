@@ -7,5 +7,6 @@
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frodggy&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frodggy&show_icons=true&theme=tokyonight)(https://xonon.tk)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frodggy&theme=gotham)
