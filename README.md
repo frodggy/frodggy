@@ -10,3 +10,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=frodggy&show_icons=true&theme=tokyonight)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frodggy&theme=gotham)
+<br />
+[![Discord Presence](https://lanyard.cnrad.dev/api/715647719183745045)](https://discord.com/users/715647719183745045)
